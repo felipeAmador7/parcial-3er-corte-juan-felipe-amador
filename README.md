@@ -2,3 +2,13 @@
 
 
 Explcación del código en c++
+
+
+```cpp
+
+while (enbatalla) {
+        if (turnojugador) {
+
+```
+
+
